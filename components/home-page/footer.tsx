@@ -20,17 +20,7 @@ export default function Footer() {
             <Link href="/">
               <h3>Sense</h3>
             </Link>
-            <p>
-              <Balancer>
-                brijr/components is a collection of Next.js, React, Typescript
-                components for building landing pages and websites.
-              </Balancer>
-            </p>
-            <p className="text-muted-foreground">
-              ©{" "}
-              <a href="https://github.com/brijr/components">brijr/components</a>
-              . All rights reserved. 2024-present.
-            </p>
+    
           </div>
           <div className="flex flex-col gap-2">
             <h5>Website</h5>
