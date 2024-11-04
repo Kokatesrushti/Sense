@@ -14,10 +14,10 @@ const FeatureRight = () => {
     <Section>
       <Container className="grid items-stretch md:grid-cols-2 md:gap-12">
         <div className="flex flex-col gap-6 py-8">
-          <h3 className="!my-0">Lorem ipsum dolor sit</h3>
+          <h3 className="!my-0">Find 3X more qualified candidates</h3>
           <p className="font-light leading-[1.4] opacity-70">
-            Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-            labore et dolore magna aliqua.
+            Activate 70% of your talent database with Search and Match AI. Qualify and connect candidates 
+            to open roles in minutes. Provide runner-up candidates with additional opportunities to reduce cost
           </p>
           <div className="not-prose flex items-center gap-2">
             <Button className="w-fit" asChild>
